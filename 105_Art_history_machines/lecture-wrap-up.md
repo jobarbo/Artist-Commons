@@ -1,8 +1,8 @@
 # Art History: Machines Learning to See - Wrap-Up
 
-**Instructor:** Dr. Polina Rud  
-**Date:** January 2026  
-**Duration:** 90 minutes  
+**Instructor:** Dr. Polina Rud
+**Date:** January 2026
+**Duration:** 90 minutes
 
 ---
 
@@ -19,6 +19,7 @@ This lecture traces a **conceptual history of "optical orders"**—how different
 ### The Renaissance Revolution (1420)
 
 **Filippo Brunelleschi** demonstrated linear perspective—a mathematical system where all lines converge to a vanishing point. His experiment:
+
 - Painted Florence Baptistery in perfect perspective
 - Drilled a peephole at the vanishing point
 - Viewed the panel's reflection in a mirror
@@ -31,8 +32,9 @@ This lecture traces a **conceptual history of "optical orders"**—how different
 **Human Position:** The viewer was placed at the center of vision. Space became measurable, ownable, navigable.
 
 **Power Dynamics:** When land could be represented geometrically, it could be:
+
 - Divided
-- Taxed  
+- Taxed
 - Sold
 - Colonized
 
@@ -41,6 +43,7 @@ This lecture traces a **conceptual history of "optical orders"**—how different
 ### The View From Above and Empathy
 
 **What does viewing from above do to empathy?**
+
 - Minimizes it
 - Creates feeling of being surveyed/controlled
 - Turns the world into abstraction
@@ -50,19 +53,23 @@ This lecture traces a **conceptual history of "optical orders"**—how different
 ### Contemporary Artists Responding
 
 **Andreas Gursky:** Adopts the elevated, impossible viewpoint of contemporary power itself
+
 - Captures stock exchanges, factories, hotels, supermarkets from heights no human body could naturally reach
 - Reveals capitalistic logic: sees masses, not individuals—interchangeable data points
 - **Warhol's insight:** The most effective way to disturb a system is to enter it and exaggerate it from within
 
 **Mark Lombardi:** Hand-drawn diagrams of political and financial networks
+
 - Exposes connections the powerful want hidden
 - **Visibility becomes a political weapon**
 - While Renaissance maps hid uncertainties with cartouches or sea monsters, Lombardi draws to expose
 
 **Cubism's Challenge:** Fractured perspective, showing objects from multiple angles at once
+
 - Later inspired **dazzle camouflage** in WWI—a theory of vision became a tactic of invisibility
 
 **David Hockney:** Photo collages stitch together multiple viewpoints and moments
+
 - Rejected "tyranny of single point perspective"
 - **"Perspective is not a natural law, it is a choice"**
 
@@ -75,11 +82,13 @@ This lecture traces a **conceptual history of "optical orders"**—how different
 ### The Horse's Secret (1879)
 
 **Eadweard Muybridge's Bet:** During a horse gallop, do all four hooves ever leave the ground?
+
 - Lined up cameras with trip wires
 - Film revealed what no human eye had seen: the horse floating mid-air
 - **From that moment on, machines know more about reality than we do**
 
 **Reactions:**
+
 - Painter Paul Delaroche: "From today painting is dead"
 - Poet Charles Baudelaire: Photography is "refuge of failed painters"
 - The public: **Enchanted**—photography democratized visibility
@@ -94,7 +103,7 @@ This lecture traces a **conceptual history of "optical orders"**—how different
 
 - **Man Ray:** Placed objects directly on light-sensitive paper (rayographs)—toothbrush becomes spectral silhouette
 - **Harold Edgerton:** Stroboscopic flash froze events faster than perception (bullet piercing glass, milk crown)
-- **Michael Wesely:** Open shutter for *years*—buildings rise and vanish in a single frame
+- **Michael Wesely:** Open shutter for _years_—buildings rise and vanish in a single frame
 - **Karl Strover (1926):** Micrographs—attached cameras to microscopes, captured diatoms and atoms
 - **Ahmed Mater:** Overlaid hospital X-rays with Islamic illumination and prayer—medical truth meets spiritual invocation
 - **Trevor Paglen:** Photographs unseen surveillance architecture (secret satellite bases, undersea cables)—uses telescopic lenses to capture "stars" that are actually machines watching the planet
@@ -108,6 +117,7 @@ This lecture traces a **conceptual history of "optical orders"**—how different
 ### Roland Barthes: Photography as Paradox
 
 Every photograph says: **"Here it is" AND "This has been"**
+
 - Every photo is a tiny time machine
 - The essence of photography is **death**—a record of a moment that no longer exists
 - Photos of the dead (or living) feel ghostly
@@ -116,12 +126,14 @@ Every photograph says: **"Here it is" AND "This has been"**
 
 ### The Overload Problem
 
-**Erik Kessels - *24 Hours in Photos* (2007):** Printed 350,000 images uploaded to Flickr in a single day, poured them into a gallery as a mountain
+**Erik Kessels - _24 Hours in Photos_ (2007):** Printed 350,000 images uploaded to Flickr in a single day, poured them into a gallery as a mountain
+
 - **We're no longer remembering—we're drowning in memory**
 - Photography's promise to preserve everything collapses into overload
 - **Nietzsche's warning:** Too much memory is sickness
 
-**Joachim Schmid:** Urges us to *stop taking pictures*
+**Joachim Schmid:** Urges us to _stop taking pictures_
+
 - Produces no new photographs
 - Collects abandoned snapshots from flea markets, family albums, hard drives
 - Reorganizes them into typologies (people holding cats, people in front of cars)
@@ -134,6 +146,7 @@ Every photograph says: **"Here it is" AND "This has been"**
 ### Guy Debord's Insight
 
 "Everything that was directly lived has moved away into representation"
+
 - History becomes what is photographed
 - **The image no longer records the event—the image IS the event**
 
@@ -142,18 +155,22 @@ Every photograph says: **"Here it is" AND "This has been"**
 ### Contemporary Fabrications
 
 **The Yes Men:** Impersonate corporate spokesmen, broadcast fake news reports announcing outrageous policies
+
 - Audiences believed it because **the format was authoritative**
 - In mass media, **legitimacy belongs to the frame, not the message**
 
-**Thomas Demand:** 
+**Thomas Demand:**
+
 1. Takes low-res media photo of charged event
 2. Reconstructs every surface from paper/cardboard at life-size
 3. Photographs this model in high resolution
 4. Destroys the model
+
 - Triple mediation: event → news image → paper replica → pristine print
 - No original space remains, only representation that replaces what it depicts
 
 **Richard Prince - Marlboro Man:** Rephotographed cigarette ads
+
 - Not about cigarettes—about mythology of masculinity, frontier freedom, solitary heroism
 - Images sell identity, not products
 
@@ -165,32 +182,37 @@ Every photograph says: **"Here it is" AND "This has been"**
 
 ### The Authority of Format
 
-**Orson Welles - *War of the Worlds* (1938):** Radio broadcast of fictional alien invasion in tone of live news
+**Orson Welles - _War of the Worlds_ (1938):** Radio broadcast of fictional alien invasion in tone of live news
+
 - Panic spread not because story was convincing, but because **format was**
 - In mass media, credibility lies in the voice of transmission
 
 ### Eisenstein's Intellectual Montage
 
 "Collision of images manufactures thought"
+
 - One shot doesn't simply follow another—it transforms it
 - Meaning emerges **in the space between images**
-- Example: *Battleship Potemkin* Odessa Steps—no single shot can be interpreted alone
+- Example: _Battleship Potemkin_ Odessa Steps—no single shot can be interpreted alone
 
 **Key Revelation:** When we watch film editing, it feels natural. We don't perceive we're being manipulated. We think **we** assemble the story correctly.
 
 ### The Narrative Imperative
 
-**Christian Marclay - *The Clock* (2010):** 24-hour video of thousands of film clips featuring clocks
+**Christian Marclay - _The Clock_ (2010):** 24-hour video of thousands of film clips featuring clocks
+
 - Every minute on screen = real time in gallery
 - No plot, no storyline, no characters
 - **Yet audiences anticipate what comes next and search for emotional continuity**
 
 **Core Discovery:** "We cannot tolerate randomness—we turn it into meaning"
+
 - Narrative is not only constructed by filmmakers
 - It's **produced by the viewer's mind itself**
 - No such thing as truly plotless film—our mind insists on creating one
 
-**Andy Warhol - *Empire* (1964):** 8-hour static shot of Empire State Building
+**Andy Warhol - _Empire_ (1964):** 8-hour static shot of Empire State Building
+
 - No plot, no action, no montage
 - Yet audience waits for something
 - **Suspense emerges where there is no story**
@@ -219,6 +241,7 @@ Every photograph says: **"Here it is" AND "This has been"**
 - **Electronic Superhighway:** Hundreds of monitors map the United States—information becomes noise
 
 **Wolf Vostell:** "Television is the sculpture of the 20th century"
+
 - Embedded live monitors into canvases, metal, concrete
 - Dragged TV out of living room into museum
 - At home TV feels natural; in gallery it becomes strange and physical
@@ -227,30 +250,37 @@ Every photograph says: **"Here it is" AND "This has been"**
 
 **Answer:** The viewer
 
-**Richard Serra - *Television Delivers People* (1973):** White text scrolling on blue screen with elevator music
+**Richard Serra - _Television Delivers People_ (1973):** White text scrolling on blue screen with elevator music
+
 - "Television does not deliver programs to audiences. It delivers audiences to advertisers."
 - Removing all visuals reveals the economic structure beneath the screen
 
 ### Artists Hijacking the Medium
 
-**Douglas Davis - *The Last Nine Minutes* (1977):** Addresses viewers directly through screen as if private conversation
+**Douglas Davis - _The Last Nine Minutes_ (1977):** Addresses viewers directly through screen as if private conversation
+
 - You feel seen but cannot respond
 - **Paradox:** Simulates connection while keeping viewers isolated
 
-**Dara Birnbaum - *Technology/Transformation: Wonder Woman* (1978-79):** Cheerful commercials for facial tissues alternate rapidly with war/violence footage
+**Dara Birnbaum - _Technology/Transformation: Wonder Woman_ (1978-79):** Cheerful commercials for facial tissues alternate rapidly with war/violence footage
+
 - Tragedy and consumption become interchangeable units
 - **TV's most dangerous trick:** Not censorship, but emotional leveling
 
-**Chris Burden - *TV Hijack* (1972):** Storms live broadcast studio
+**Chris Burden - _TV Hijack_ (1972):** Storms live broadcast studio
+
 - Shows broadcast authority is fragile, can be interrupted physically
 
 **Paper Tiger TV:** Built low-budget pirate programs dissecting mainstream news
+
 - Used television to explain how television works
 
 **Vladislav Mamyshev-Monroe:** Produced fake Soviet TV broadcasts perfectly mimicking official state media but with absurd, surreal, subversive content
+
 - **Power lies less in what is said than how it's packaged**
 
 **Media Burn:** Staged performances where car literally crashed into wall of TVs
+
 - Not metaphor—literal physical confrontation
 
 **Marshall McLuhan:** "The medium is the message"—media are not simply channels, they are environments that shape perception
@@ -264,6 +294,7 @@ Every photograph says: **"Here it is" AND "This has been"**
 ### Nancy Burson - The Calculated Face (1980s)
 
 Pioneered digital morphing:
+
 - Scanned faces with digitizer, translated portraits into numerical coordinates
 - Computer distorted first face to match second, blending them
 - **Not photographed, not painted—calculated**
@@ -293,29 +324,35 @@ Images are no longer fixed frames—they are **modular units** (pixels, files, d
 ### Artists Working with These Principles
 
 **Dan Sandin - Sandin Image Processor (1971-74):** Analog video computer
+
 - "Video equivalent of Moog synthesizer"
 - Accepts video signals, modulates them through voltage/oscillation/feedback
 - Refused to patent it—distributed schematics so others could build their own
 
 **Steina & Woody Vasulka - Rutt Etra Video Synthesizer:** Treated TV signal as raw material
+
 - **Violin Power:** Steina plays violin—sound feeds directly into video synthesizer. Her bow strokes control the image. She's not accompanying an image, **she's playing it directly**
 
 **Ture Sjölander - Swedish Monument (1960s):** Hijacked Swedish TV, converting film to video signals mid-transfer
+
 - Chaplin melts, sculptures stretch, leaders dissolve
 - Cultural monuments infected by electronic disease
 
-**Max Almy - *Leaving the 20th Century* (1982):** Three-part narrative using computer graphics
+**Max Almy - _Leaving the 20th Century_ (1982):** Three-part narrative using computer graphics
+
 - **Countdown:** Man receives daily input directly into head through TV signals
 - **Departure:** Woman leaves because nothing good on television, but wanders lost without screen
 - **Arrival:** Figures trapped in digital void of failed transmissions
 - Bodies float like detached objects—proto-database where humans are searchable, non-interactive fragments
 
-**Lev Manovich - *Soft Cinema*:** Builds database of video clips, images, text, soundtracks
+**Lev Manovich - _Soft Cinema_:** Builds database of video clips, images, text, soundtracks
+
 - Software assembles film in real time following compositional rules + controlled randomness
 - "Semi-automatic film jockey"—**cinema that performs itself**
 - Every screening produces different constellation—film never repeats
 
-**Cory Arcangel - *Super Mario Clouds* (2002):** Hacked Super Mario Brothers cartridge
+**Cory Arcangel - _Super Mario Clouds_ (2002):** Hacked Super Mario Brothers cartridge
+
 - Erased all sound/visual elements except scrolling blue sky with pixel clouds
 - Game still runs but nothing happens
 - Isolates single graphic module, reveals hidden construction
@@ -338,8 +375,9 @@ Images are no longer fixed frames—they are **modular units** (pixels, files, d
 ### Present State
 
 **Seeing is no longer passive act. Seeing is:**
+
 - An operation
-- A computation  
+- A computation
 - A selection
 - A targeting
 
@@ -350,31 +388,37 @@ Images are no longer fixed frames—they are **modular units** (pixels, files, d
 ## 💭 Studio Reflection Questions
 
 ### On Perspective & Power
+
 - What perspective am I working from? Have I interrogated this?
 - How might my work adopt or critique the "view from above"?
 - Can I reveal hidden structures or connections through my practice?
 
 ### On Mechanical Vision
+
 - What devices reveal what my human eye cannot see?
 - How can I use technology to expose the optical unconscious?
 - Am I extending vision or questioning it?
 
 ### On Memory & Archive
+
 - Do I back up my photos because I fear forgetting or losing?
 - How does my work relate to overload vs. preservation?
 - Can I work with found/existing images rather than creating new ones?
 
 ### On Spectacle & Truth
+
 - Does my work manufacture events or document them?
 - How does format/presentation affect credibility of my work?
 - Am I producing simulacra or revealing them?
 
 ### On Montage & Narrative
+
 - Who controls the sequence in my work—me or the viewer?
 - How do I create meaning through juxtaposition?
 - Can I embrace randomness or do I impose narrative?
 
 ### On Digital Modularity
+
 - Are my images fixed or variable?
 - Can my work be recombined, regenerated, or automated?
 - How do I work with vs. against database logic?
@@ -403,4 +447,4 @@ Vision has always been shaped by technology and power. Artists' role is to expos
 
 ---
 
-*"Perhaps the task of artists today is not simply to produce images, but to interrupt the regimes of vision that produce us."*
+_"Perhaps the task of artists today is not simply to produce images, but to interrupt the regimes of vision that produce us."_
