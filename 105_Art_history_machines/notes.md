@@ -141,3 +141,68 @@ in 75 sony released it's first handheld videocamera. Which meant artist could re
   - Clearly it's **the viewer**
 
 **"You are the end product delivered en masse to the advertiser" - Richard serra - Television delivrers people (1973)**
+
+Attention, data, it all hides behind entertainment, dopamine seduction.
+
+### Artists Hijacking the Medium
+
+**Douglas Davis - _The Last Nine Minutes_ (1977):** Addresses viewers directly through screen as if private conversation
+
+- You feel seen but cannot respond
+- **Paradox:** Simulates connection while keeping viewers isolated
+- The fourth wall breaks but only on one side. it is the great tragedy of television.
+
+**Dara Birnbaum - _Technology/Transformation: Wonder Woman_ (1978-79):** Cheerful commercials for facial tissues alternate rapidly with war/violence footage
+
+- Tragedy and consumption become interchangeable units
+- **TV's most dangerous trick:** Not censorship, but emotional leveling
+
+Artists used television to show how telivion work.
+
+**mamyshev-monroe** hijacked tv by using the code from state media to deliver absurd content. The content is not important but how it is packaged to the user.
+
+**media burn - 1975** Literal confrontation of the tv by using a car to crash into them.
+
+#### Key Takeaway
+
+- Images began as record of moments, but it gradually becam structures that organize memory itself. The past no longer lived only in minds or rituals but in archives, databases, feeds and screens. Memories shifted from lived experience to stored representation and soon from storage to overload
+- The image stoped documenting events and began producing them instead: shaping public opinion, collective emotion and social belief.
+- Montage, broadcast and mass media revealed whoever controls image sequence controls attention -- and whoever controls attention organizes reality
+- By the late 20th century, television and mass imagery became the environment in which the world appears.
+- The central condition of contemporary life: we do not live events, **We live their images**
+
+## 💻 Part 7: Digital Logic - When Images Become Data
+
+### Nancy Burson - The Calculated Face (1980s)
+
+Pioneered digital morphing:
+
+- Scanned faces with digitizer, translated portraits into numerical coordinates
+- Computer distorted first face to match second, blending them
+- **Not photographed, not painted—calculated**
+- Co-created first patented facial morphing software (later adopted by FBI)
+
+- This was used later by FBI to craft aged photos of missing children
+- Was also used as a control technology (face recognition)
+- Her work merged art and science decades before it was mainstream.
+
+**Warhead 1:** Merged faces of Reagan, Brezhnev, Mitterrand, Thatcher
+**2018 Time Magazine:** Merged Trump and Putin
+
+**Result:** Human face becomes data set. Identity becomes something that can be computed, modified, generated—**no longer bound to a body**.
+
+Images are no longer fixed frames—they are **modular units** (pixels, files, data sets) that can be stored, sorted, searched, recombined, generated.
+
+**Database logic:** Meaning no longer arises from linear storytelling but from structure, correlation, accumulation, algorithmic recombination
+
+### Manovich's Five Principles
+
+1. **Numerical Representation:** Digital images are made of numbers
+2. **Modularity:** Digital elements remain independent building blocks (clips, pixels, files can be rearranged without destroying whole) that can be rearranged without destroying the whole
+3. **Automation:** Software can operate on images automatically, ie: Morphing faces, recognizing patterns, generating sequences, predicting behavior
+4. **Variability:** No digital image has singular final form. It can be resized, recolored, recompressed, regenerated endlessly
+5. **Transcoding:** New media lives in two layers that reshape each other:
+
+- The cultural layer: Human meanings, like a photo's story
+- The computer layer: Code, algorithms, data
+  A face become both art and an editable pixel array; Culture gets rewritten by software, logic and vice versa...
