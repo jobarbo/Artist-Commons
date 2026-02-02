@@ -206,3 +206,54 @@ Images are no longer fixed frames—they are **modular units** (pixels, files, d
 - The cultural layer: Human meanings, like a photo's story
 - The computer layer: Code, algorithms, data
   A face become both art and an editable pixel array; Culture gets rewritten by software, logic and vice versa...
+
+### Artists Working with These Principles
+
+**Dan Sandin - Sandin Image Processor (1971-74):** Analog video computer
+
+- "Video equivalent of Moog synthesizer"
+- Accepts video signals, modulates them through voltage/oscillation/feedback
+- Refused to patent it—distributed schematics so others could build their own
+
+**Steina & Woody Vasulka - Rutt Etra Video Synthesizer:** Treated TV signal as raw material
+
+- **Violin Power:** Steina plays violin—sound feeds directly into video synthesizer. Her bow strokes control the image. She's not accompanying an image, **she's playing it directly**
+
+**Ture Sjölander - Swedish Monument (1960s):** Hijacked Swedish TV, converting film to video signals mid-transfer
+
+- Chaplin melts, sculptures stretch, leaders dissolve
+- Cultural monuments infected by electronic disease
+
+**Max Almy - _Leaving the 20th Century_ (1982):** Three-part narrative using computer graphics
+
+- **Countdown:** Man receives daily input directly into head through TV signals
+- **Departure:** Woman leaves because nothing good on television, but wanders lost without screen
+- **Arrival:** Figures trapped in digital void of failed transmissions
+- Bodies float like detached objects—proto-database where humans are searchable, non-interactive fragments
+
+**Lev Manovich - _Soft Cinema_:** Builds database of video clips, images, text, soundtracks
+
+- Software assembles film in real time following compositional rules + controlled randomness
+- "Semi-automatic film jockey"—**cinema that performs itself**
+- Every screening produces different constellation—film never repeats
+
+**Cory Arcangel - _Super Mario Clouds_ (2002):** Hacked Super Mario Brothers cartridge
+
+- Erased all sound/visual elements except scrolling blue sky with pixel clouds
+- Game still runs but nothing happens
+- Isolates single graphic module, reveals hidden construction
+- **Code becomes landscape**
+
+#### Key Takeaway
+
+- Images are no longer singular frames or sequences. they are modular elements that can be stored, sorted, recombined and generated.
+- Meaning emerges from structure, correlation and permutation
+- Once vision becomes data, the body becomes describable, the face becomes calculable, identity becomes editable
+- Narrative does not organize images anymore, Images organize the narrative.
+
+### Unfinished experiments
+
+- Can we invent ways of seeing that do not convert the world into resource?
+- What counts as eviddence in an age of synthetic images? When images no longer guarantee a referent, how do we ground knowledge?
+- Vision has become a field of governance. Who has the right to see, show or hide content.
+- If time becomes navigable, what happens to memoery, forgetting and responsibility??
