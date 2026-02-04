@@ -1,6 +1,7 @@
 # Jennifer & Kevin McCoy Presentation - Wrap-Up
 
 ## Overview
+
 Jennifer and Kevin McCoy are collaborative artists who co-author all their work together. They discuss their 25+ year practice spanning video art, sculpture, installation, and digital media. Their work explores the intersection of cinema, databases, technology, and physical sculpture.
 
 ---
@@ -8,11 +9,13 @@ Jennifer and Kevin McCoy are collaborative artists who co-author all their work 
 ## Key Themes in Their Practice
 
 ### Collaborative Philosophy
+
 - **Decision**: Early on, they chose to co-author all work under one name rather than compete for opportunities
 - **Strategy**: They create a "third body of work" that is neither what Kevin nor Jennifer would make individually
 - **Process**: Ongoing conversation where ideas loop back and forth; not bureaucratic, always evolving
 
 ### Art as Practice
+
 - View art-making as a practice (like meditation or athletics) focused on continuous improvement
 - Emphasize that **art-making is an end in itself**—professionalization and markets are downstream
 - Acknowledge that work is 99% uncertainty; the polished presentation glosses over countless doubts along the way
@@ -22,7 +25,9 @@ Jennifer and Kevin McCoy are collaborative artists who co-author all their work 
 ## Major Projects & Artistic Evolution
 
 ### Early Database Work (2001)
+
 **"Every Shot, Every Episode" (Starsky & Hutch)**
+
 - Deconstructed the entire first season using film theory categories
 - Created a physical database: 278 discs displayed on gallery shelves with labels like "every stairway," "every disguise"
 - Pioneered what became known as "supercuts" (alongside Christian Marclay)
@@ -31,39 +36,46 @@ Jennifer and Kevin McCoy are collaborative artists who co-author all their work 
 ### Miniature Works with Live Video (Mid-2000s onward)
 
 **"Our Second Date"**
-- Recreated a scene from Jean-Luc Godard's *Weekend* in miniature (a car wreck)
+
+- Recreated a scene from Jean-Luc Godard's _Weekend_ in miniature (a car wreck)
 - Built a miniature cinema with live cameras that cut between two narrative spaces: the Godard film and Jennifer & Kevin watching it
 - Key insight: Using miniatures and live cameras to create live cinema
 
 **"Horror Chase"**
-- All 278 different takes of one shot from *Evil Dead 2* shot on Super 16mm film
+
+- All 278 different takes of one shot from _Evil Dead 2_ shot on Super 16mm film
 - Computer algorithm randomly chooses takes, direction, and speed
 - Creates "endlessness"—viewers never see the same sequence twice
 - Demonstrates commitment to future-proofing: has been rescanned and reauthored multiple times (320x240 pixels → 4K resolution)
 - Now in Whitney Museum's permanent collection
 
 **"The Kiss"**
-- Similar structure to Horror Chase but with one kiss from *The Postman Always Rings Twice*
+
+- Similar structure to Horror Chase but with one kiss from _The Postman Always Rings Twice_
 - Shot on 35mm film
 
 ### Mini Projects Exploring Fandom
+
 A series of tiny sculptural works that physically recreated iconic cinema moments:
+
 - Explored the connection between fan and art object
 - Featured Kevin and Jennifer positioned within recreated film scenes
-- Examples: miniature recreations of scenes from *Weekend*, *Star Trek*, *Kung Fu*
+- Examples: miniature recreations of scenes from _Weekend_, _Star Trek_, _Kung Fu_
 
 ### Large-Scale Installations
 
 **"The Dreadnought"**
+
 - Commissioned for "Models as Muse" exhibition at Addover College
 - Animated a priceless model ship without moving it—instead, moved the camera around it
 - Challenges: motorized track, wireless video, capacitors to smooth power flow
 - Whimsical result: waves ended up much larger than the ship, creating a comically dramatic effect
 
 **"Constant World"**
+
 - Commission from British Film Institute/Hayward Gallery, London
 - Four chandeliers create film on a massive screen
-- References Godard's *Alphaville* and situationist architect Constant's utopian city designs
+- References Godard's _Alphaville_ and situationist architect Constant's utopian city designs
 - Physical text (laser-cut plexiglass) serves as 3D subtitles
 - Black-and-white aesthetic with color flares; traveled to six venues after initial installation
 
@@ -72,18 +84,21 @@ A series of tiny sculptural works that physically recreated iconic cinema moment
 ## Digital Art & NFTs (2010s)
 
 ### "Quantum" - First NFT (2014)
+
 - **Significance**: Recognized as the first digital artwork with a blockchain record (first NFT)
 - Source: Animated GIF derived from Processing code; animation originally from a miniature project
 - **Key Insight**: Uniqueness comes from the blockchain record, not the artwork itself—they are two separate systems that need to be linked
 - Presented at the New Museum, NYC, with Anil Dash
 
 ### Failed Platform Attempt: Monograph (2015-2016)
+
 - Attempted to create a platform allowing artists to put works on-chain and buy/sell them
 - Launched before Ethereum was fully established; market wasn't ready
 - Kevin burned out; the technology later evolved differently (crypto punks, etc.)
 - **Lesson**: Being too early means being "screwed"—the idea had to wait for broader infrastructure
 
 ### Current Engagement
+
 - Re-engaged with NFT community and collector scene after initial burnout
 - Believe the concept of digital ownership is too important to disappear
 
@@ -92,6 +107,7 @@ A series of tiny sculptural works that physically recreated iconic cinema moment
 ## Recent Work: Short Film Series (2010s onward)
 
 ### "Broker" (2016)
+
 - 20-minute short film about a luxury real estate broker
 - Shot in Trump Tower luxury apartment as set
 - Uses surveillance-style cameras (Nest, Home, Yi-style)
@@ -100,6 +116,7 @@ A series of tiny sculptural works that physically recreated iconic cinema moment
 - Shown primarily as looping installation
 
 ### "Cleaner" & "Quitter"
+
 - Part of 10-year odyssey of three shorts
 - Details to be continued/elaborated in upcoming discussions
 
