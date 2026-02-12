@@ -281,9 +281,105 @@ What makes the object in the museum art? (artowrk vs non art object like fountai
 <u>Understanding Cultural Capital</u>
 
 - Credential Capital?
+  - Do you have an MFA (where is it from)
 - Institutional Affiliation?
+  - IS your work shown in certain galleries
 - Critical Validation?
+  - Being written about?
 - Linguistic Capital?
   - writing an artist statement using the right vocabulary
 - Knowledge Capital?
+  - Can you discuss you work in relationship to art history
 - Social Capital?
+  - Do you have connectionwith curators, collectors and galleries
+
+None of this relate to the actual work of art.
+
+#### <u>For My practice</u>
+
+**What institutions or contexts would confer art-status on your work?**
+A: Galleries, Art center, Other artists from where I'm based, Recognition by canadian or Quebec institutions, Media appearances (articles, TV,web)
+
+**Which ones do you actually care about?**
+A: Anything that is willing to respect the work and the medium. That is open minded.
+
+**What cultural capital do you need to be recognized by them.?**
+A: Contacts, Knowledge of the art world, Knowing how to write about my work to enter open calls, Openness about digital art as a medium (but thats out of my control)
+
+### <u>Framework 4</u>
+
+#### Art as an Open Concept
+
+Art is : Things that share **family resemblances** with other things called art
+
+#### <u>Morris Weitz</u>
+
+**"Art is an open concept. You can't define it"**
+
+#### <u>Wittgenstein's Family Resemblance</u>
+
+IE: What do all games have in common?
+
+No single feature unites them all. Instead they have overlapping similarities.
+
+#### <u>Boris Groys</u>
+
+"Art is defined by producing the NEW within art discourse"
+
+**The archive and the trash Heap**
+
+Innovation happens when something from outside gets pulled into the "archive"
+
+(See Duchamp Urinal)
+
+#### <u>Performance Art (60's - 70's)</u>
+
+Gradually performance joined the art "family" because it was talked about by critics and curator's.
+
+#### <u>Hito Steyerl</u>
+
+why is it art?
+Instutional recognition but alsol She brought element that was outside the "archive"
+
+- Essay film
+- Academic lecture
+- Internet aesthetic
+  All into contemporary art.
+
+Video tutorial about become invisible in the digital age.
+
+#### <u>Cameron Rowland</u>
+
+-Attica Series Desk, 2016.
+
+#### <u>For My practice</u>
+
+Think about what is new in your work
+
+What are you bringing into the archive that wasn't here before.
+
+---
+
+**What existing art practices does your work resemble?**
+A: Algorithmic or rule base art.
+
+**Make a list of 3-5 artists, movements, or practices your work connects to.**
+
+- Generative art
+- The automatists
+- Tyler Hobbs (flow field)
+- Matt deslauriers (use of particles)
+
+**Then ask: what's different? What are you doing that's NEW in relation to those practices?**
+A: IDK maybe bridging medium like I did with the dance groupe and my particle engine, or my step frame video animation using total new render of the same hash
+
+---
+
+### <u>Four Frameworks</u>
+
+1. Art as imitation/representation
+2. Art as Aesthetic Form
+3. Art as institutional Recognition
+4. Art as an Open Concept
+
+Not Competing Truths, just different tools.
