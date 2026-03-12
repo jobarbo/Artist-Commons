@@ -1,4 +1,4 @@
-uuuuu# What Am I making (The Ontology of Art)
+# What Am I making (The Ontology of Art)
 
 ## Session 1: The Analytic Canon
 
