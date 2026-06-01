@@ -1,6 +1,6 @@
 # How to Build a Portfolio
 
-**Speaker:** Haiver — Artist Commons director  
+**Speaker:** Haiver — Artist Commons director
 **Context:** A dedicated session on portfolio construction, timed intentionally after student artist presentations gave everyone a chance to revisit their archive. Covers conceptual framing, editorial process, sequencing structure, format, documentation, and practical logistics.
 
 ---
@@ -27,6 +27,8 @@ The key question to hold through every decision you make:
 
 This should guide what you include, what you cut, and how you sequence. Your viewer is not your idealized patient reader — they are looking at dozens or hundreds of applications, skimming quickly, jumping forward and backward. You are designing for **fragmented attention**.
 
+This also helps contextualize rejection: selection outcomes are often influenced by reviewer taste, context, and institutional fit, not just by objective work quality. A no is not always a verdict on the value of your practice.
+
 Just like tailoring a cover letter and résumé to each job application, you customize your portfolio to your audience and purpose. **You have no single definitive portfolio.** The underlying works may be the same; the selection and sequencing shift. This is not misrepresentation — it is understanding your audience and meeting them on their terms.
 
 ---
@@ -37,12 +39,13 @@ A portfolio answers one question: **Who is this artist today?**
 
 - Older work can appear, but only if it reads as part of the same trajectory — not as an artifact from a different identity
 - If a piece feels like it belonged to a different artist, it probably doesn't belong here, regardless of how important it once was
-- The test is not age, it's relevancy: *"If I made this last month, would I include it?"*
+- The test is not age, it's relevancy: _"If I made this last month, would I include it?"_
 
 **Why recent work matters:**
+
 1. It shows where your thinking is now — reviewers are investing in your future, not your past
 2. It reflects your current technical and conceptual standards; older work often exposes earlier limitations and can weaken the presentation
-3. It signals active engagement — a portfolio heavy with 3-5 year old work raises the question: *is this artist still producing at this level?*
+3. It signals active engagement — a portfolio heavy with 3-5 year old work raises the question: _is this artist still producing at this level?_
 
 Most portfolios work best with **one or two recent bodies of work in depth**, and possibly one older body that clearly leads into them. Avoid a portfolio that reads as a timeline of unrelated phases.
 
@@ -51,19 +54,23 @@ Most portfolios work best with **one or two recent bodies of work in depth**, an
 ## 3. The Process: Gather → Edit → Sequence
 
 ### Step 1: Gather
+
 - Target 10–20 final images; pull **double that** to start
 - Pick from recent work first, focusing on bodies of work rather than isolated pieces
 - Include work you're uncertain about — the goal at this stage is to put work **in relationship to each other** and see what connections emerge
 - Don't over-edit at this stage; gather broadly first
 
 ### Step 2: Edit
+
 Cut the weakest 25% first. Remove work that:
+
 - Feels unresolved or depends on too much explanation to function
 - No longer represents your current thinking
 - Makes you hesitate when you look at it (a reliable gut check)
 - Is poorly documented — low-quality photos undercut strong work
 
 **Finding the through line:** As you edit, look for the recurring threads across the work:
+
 - **Recurring materials**
 - **Recurring visual language**
 - **Recurring methods**
@@ -77,6 +84,7 @@ Coherence can come from any of these — not only from visual style. These threa
 A busy reviewer who looks at 100 portfolios wants to understand you in the first 3–5 minutes. If they can't make sense of your practice, you become an easy no. This is liberating: getting turned down isn't always about the strength of the work. Often it's about how the work was organized.
 
 ### Step 3: Sequence
+
 Sequencing is **meaning-making, not just aesthetics**. Think of pacing a good exhibition: contrast, breathing room, a strong opening, interesting middles, a strong close. Key rules:
 
 - **Start with your strongest work.** Decisions happen unconsciously in the first 1–3 images. The opening work is disproportionately important — it establishes confidence and sets the tone. Don't make a reviewer overcome a weak first impression
@@ -89,9 +97,11 @@ Sequencing is **meaning-making, not just aesthetics**. Think of pacing a good ex
 ## 4. Structural Approaches to Sequencing
 
 ### Grouping by Project and Year
+
 Works are organized in clear project chunks: Project A → Project B → Project C.
 
 **Use when:**
+
 - Projects are meaningfully different from one another
 - Each body of work requires immersion to understand
 - You're earlier in your career and clarity is more important than complexity
@@ -100,9 +110,11 @@ Works are organized in clear project chunks: Project A → Project B → Project
 Grouping is cleaner, reduces cognitive friction, and is less prone to confusion. The risk: work can feel compartmentalized if connections between bodies aren't clear.
 
 ### Weaving Between Images and Time Periods
+
 Works are interlaced across different periods: 2026 → 2024 → 2023 → 2021 → 2026, etc. The viewer sees relationships you want to draw between bodies of work.
 
 **Use when:**
+
 - Projects share the same underlying investigation even if materials differ
 - Works become clearer through juxtaposition
 - You want to emphasize an integrated, cohesive practice
@@ -113,9 +125,11 @@ Weaving is structurally more demanding. If the relationships between projects ar
 > **Early career artists should generally favor grouping. More established artists can use weaving.**
 
 ### Hybrid Approach
+
 Begin with clean groupings to establish each body of work clearly, then weave selectively toward the end to reveal interconnections. Works best in a designed PDF where you can place multiple images per page; less applicable when uploading individual JPEGs.
 
 ### Other Sequencing Logics
+
 - **Chronological** — useful primarily if demonstrating growth over time is the point
 - **Inquiry and expansion** — Project A as foundation, Project B as its evolution
 - **Thematic/conceptual** — showing how an idea develops across multiple projects
@@ -131,7 +145,7 @@ No single method is correct. Take the words that resonate and run with them.
 
 Include two mediums **when they feel like different manifestations of the same inquiry** — when the medium shifts but the investigation stays stable.
 
-*Example: paintings about fragmented architectural space + sculptures with fragmented architectural forms = clearly one practice.*
+_Example: paintings about fragmented architectural space + sculptures with fragmented architectural forms = clearly one practice._
 
 What you want to avoid: a reviewer asking "Is this three different artists?"
 
@@ -142,15 +156,19 @@ What you want to avoid: a reviewer asking "Is this three different artists?"
 ## 6. Format: PDF, JPEGs, and Website
 
 ### PDF
+
 - Controls the sequence; you decide the order
 - Easy to attach to applications; easy to forward
 - Standard format for formal submissions (admissions, residencies, galleries)
 - Use tools like Adobe Acrobat's "reduce file size" function — a 75 MB PDF can become 3 MB with no visible quality loss
 
 ### JPEGs (individual uploads)
+
 - Some platforms require uploading images one by one — file naming then does the sequencing work for you (see below)
+- For video or time-based work, include strong still frames and a clear direct link (or QR code in PDF contexts) so reviewers can access motion-based material without breaking flow
 
 ### Website
+
 - Allows viewers to browse freely and discover work on their terms
 - Proves legitimacy and seriousness — a missing website loses credibility
 - **Primary goal: persuasion, not archive**
@@ -163,6 +181,7 @@ What you want to avoid: a reviewer asking "Is this three different artists?"
 ## 7. Practical Details
 
 ### Design basics
+
 - Consistent formatting across the document or site
 - Clear labeling; readable type
 - One image per page (for PDFs)
@@ -170,6 +189,7 @@ What you want to avoid: a reviewer asking "Is this three different artists?"
 - Software options: Adobe InDesign (standard), Lightroom (photographers), Affinity Publisher, Figma, Canva, PowerPoint/Keynote/Google Slides — pick the tool you know well and test the PDF export early
 
 ### File naming
+
 Reviewers need to know who the work is from, what order to view it in, and what the submission is for. File naming conventions:
 
 - Always start with your name
@@ -177,12 +197,14 @@ Reviewers need to know who the work is from, what order to view it in, and what 
 - Consider including the opportunity name — it signals that you tailored this submission
 - **Test alphabetical sorting** — if you put the work title before the number, alphabetizing will scramble your sequence
 
-*Examples:*
+_Examples:_
+
 - `Haiver_Portfolio_01.jpg`
 - `Haiver_Portfolio_01_In-the-Ways-of-Being_2023.jpg`
 - `Haiver_Portfolio_StJohnsResidency_01.jpg`
 
 ### Captions
+
 Every work needs a caption. Standard format: **Title, Year, Medium, Dimensions**
 
 - Height first, then width, then depth (if applicable)
@@ -195,6 +217,7 @@ Every work needs a caption. Standard format: **Title, Year, Medium, Dimensions**
 ## 8. Documentation
 
 **If documentation is poor, it sabotages even strong work.** This is where reviewers form unconscious impressions of seriousness. All images should be:
+
 - Sharp and evenly lit
 - Properly exposed and color-accurate
 - Undistorted; camera parallel to the surface for 2D work (avoid keystoning)
@@ -202,9 +225,9 @@ Every work needs a caption. Standard format: **Title, Year, Medium, Dimensions**
 
 ### Types of shots
 
-**Full view** — establishes overall composition and assembly  
-**Detail shot** — reveals how the work is built: brushwork, layering, edge conditions, surface texture, material transitions. Moves the viewer from composition to the artist's moment-by-moment decisions. Especially valuable for painting, drawing, sculpture, and textile  
-**Installation shot** — proves scale, spatial intelligence, and exhibition readiness. Shows the work not as an image but as **an encounter**. Ask: *What is it like to be in the presence of this?* Most exhibition decisions are based on how work functions in space. Especially important for sculpture, installation, interdisciplinary, and large-scale work
+**Full view** — establishes overall composition and assembly
+**Detail shot** — reveals how the work is built: brushwork, layering, edge conditions, surface texture, material transitions. Moves the viewer from composition to the artist's moment-by-moment decisions. Especially valuable for painting, drawing, sculpture, and textile
+**Installation shot** — proves scale, spatial intelligence, and exhibition readiness. Shows the work not as an image but as **an encounter**. Ask: _What is it like to be in the presence of this?_ Most exhibition decisions are based on how work functions in space. Especially important for sculpture, installation, interdisciplinary, and large-scale work
 
 A typical structure for a key work: full view → detail view → installation view. Together they produce a complete understanding of the work and the artist's intentions.
 
@@ -213,10 +236,11 @@ A typical structure for a key work: full view → detail view → installation v
 ## 9. Maintaining Your Portfolio
 
 A portfolio is never finished. Strong portfolios are revised constantly:
+
 - Review and update regularly as new work is made
 - **Replace, don't add.** When stronger work emerges, substitute it for something already in — don't just keep adding images beyond your 10–20 target
 - Match each iteration to its specific situation, audience, and purpose
-- Ask yourself each time: *What decision do I want them to make after five minutes?*
+- Ask yourself each time: _What decision do I want them to make after five minutes?_
 
 ---
 
@@ -248,4 +272,4 @@ A portfolio is never finished. Strong portfolios are revised constantly:
 
 ---
 
-*Summary based on the Artist Commons portfolio lecture transcript and slide deck (113_portfolio/transcript.txt and 113.How_to_Build_a_Portfolio.pdf).*
+_Summary based on both Artist Commons text sources: 113_portfolio/transcript.txt and 113_portfolio/113.How_to_Build_a_Portfolio.txt._
